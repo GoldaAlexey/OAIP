@@ -1,5 +1,5 @@
 #include <stdio.h>
-#ibb
+
 using namespace std; 
 
 
